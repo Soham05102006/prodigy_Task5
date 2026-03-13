@@ -1,7 +1,3 @@
-This is a great addition to your portfolio, Soham. A weather app is a classic "rite of passage" for developers because it proves you can handle real-world data and asynchronous API calls.
-
-Here is a professional, high-impact README.md for your GitHub repository.
-
 🌦️ SkyCast: Real-Time Weather Dashboard
 SkyCast is a sleek, minimalist web application that provides instant meteorological data for any city across the globe. By leveraging a real-time weather API, it delivers precise temperature, humidity, and atmospheric conditions with a focus on speed and clarity.
 
